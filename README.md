@@ -83,14 +83,6 @@ Python 2.7 or 3.5+ are supported and tested.
 $ python app.py
 ```
 
-### Play
-
-Open http://localhost:5000 and have fun. :smiley:
-
-<p align="center">
-  <img src="https://i.postimg.cc/4dzxtBtZ/bober.png"  alt="">
-</p>
-
 ------------------
 
 ## Customization
@@ -148,6 +140,5 @@ server {
 }
 ```
 
-## This is fork repo of mtobeiyf
- [repo](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
+### This is fork of [mtobeiyf](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
 
