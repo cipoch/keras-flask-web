@@ -27,7 +27,7 @@
 
 ### Build and run an image for keras-application pretrained model 
 ```shell
-$ cd keras-flask-deploy-webapp
+$ cd keras-flask-web
 $ docker build -t keras_flask_app .
 $ docker run -d -p 5000:5000 keras_flask_app 
 ```
